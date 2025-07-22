@@ -46,4 +46,4 @@ https://pan.baidu.com/s/1INx-B8we0CmTE9abGsbpQA    extraction code:: b8yz
 
 https://huggingface.co/jiangnanboy/doc_diff_en_v1.1
 
-关注我，联系我微信公从号：番石榴AI
+关注我，联系我微信公众号：番石榴AI
